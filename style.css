@@ -149,3 +149,36 @@ body{
     font-weight: bolder;
     margin-left: auto;
 }
+
+/* Sign-up */
+
+.sign-up-container{
+    margin: 100px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+}
+
+.sign-up-left
+.sign-up-header{
+    font-weight: bolder;
+}
+
+.sign-up{
+    padding: 3px 20px;
+    outline-style: solid;
+    outline-color: white;
+    outline-width: 3px;
+    border-radius: 50px;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 20px 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
